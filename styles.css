@@ -1,0 +1,33 @@
+#stopwatch {
+  background: #16697a;
+  border: 1px solid #999;
+  padding: 20px;
+  border-radius: 10px;
+  max-width: 250px;
+  text-align: center;
+  margin: auto;
+  font-family: Futura, sans-serif;
+
+}
+
+#sw-time {
+  font-size: 48px;
+  font-weight: bold;
+  text-align: center;
+}
+
+#sw-rst, #sw-go {
+  width: 45%;
+  box-sizing: padding-box;
+  padding: 10px;
+  display: inline-block;
+  background: #db6400;
+  border: 0;
+  color: black;
+}
+
+h1 {
+  text-align: center;
+  padding-top: 50px;
+  font-family: Futura, sans-serif;
+}
